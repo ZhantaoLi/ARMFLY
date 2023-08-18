@@ -1,0 +1,5 @@
+﻿  hello.c
+C:\Users\51246\Desktop\AES\V7-077_生成AES加密固件的上位机软件\programs\hash\hello.c(166,12): warning C4013: 'memcmp' undefined; assuming extern returning int
+C:\Users\51246\Desktop\AES\V7-077_生成AES加密固件的上位机软件\programs\hash\hello.c(79,6): warning C4101: 'i': unreferenced local variable
+C:\Users\51246\Desktop\AES\V7-077_生成AES加密固件的上位机软件\programs\hash\hello.c(79,9): warning C4101: 'ret': unreferenced local variable
+  hello.vcxproj -> C:\Users\51246\Desktop\AES\V7-077_生成AES加密固件的上位机软件\visualc\VS2010\Debug\hello.exe

@@ -1,0 +1,6 @@
+【MDK-ARM(AC5)】KEIL的MDK工程文件，uVision5版本，编译器AC5。
+
+
+output(mdkac5).hex - 采用KEIL MDK AC5编译好的可执行文件(定位在CPU内部Flash执行)，可以直接下载到CPU内部Flash执行。
+
+

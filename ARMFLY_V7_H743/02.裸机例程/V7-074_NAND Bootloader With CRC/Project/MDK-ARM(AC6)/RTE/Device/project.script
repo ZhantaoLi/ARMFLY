@@ -1,0 +1,4 @@
+load STM32H743XIHx 
+project name STCubeGenerated 
+project toolchain "MDK-ARM V5" 
+project path "C:\Users\byb\Desktop\V7-RTX5 Template\Project\MDK-ARM(AC5)\RTE\Device\STM32H743XIHx\" 
